@@ -27,7 +27,7 @@ The full set of files related to this course are owned by Udacity, so they are n
 ## File Descriptions <a name="files"></a>
 
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.
-* The file 'HowToBreakIntoTheField.ipynb' is a good start for the project.
+* The file 'HowToBreakIntoTheField.ipynb' is a good start for the project. It analysis if it is worth the effort to break into a new field.
 * The file 'BootscampStats.ipynb' takes a look at the data.
 * The file 'Salary_ML.py' builts the machine learning model from the data.
 
